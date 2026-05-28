@@ -357,7 +357,7 @@ st.markdown("""
 <div class="hero">
   <div>
     <span class="hero-badge">❄ Particle Swarm · CatBoost</span>
-    <div class="hero-title">CoolOpt</div>
+    <div class="hero-title">Computer Engineering Department, FPNO</div>
     <div class="hero-sub">Smart Building Cooling Load Predictor & Design Optimizer</div>
   </div>
 </div>
